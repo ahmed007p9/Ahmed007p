@@ -1,4 +1,4 @@
-/**
+*/**
  ██████╗░████████╗██╗░░██╗           
  ██╔══██╗╚══██╔══╝╚██╗██╔╝          
  ██████╔╝░░░██║░░░░╚███╔╝░          
@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["the end up","free palestine"];
+const statusMessages = ["Online 24h","free palestine"];
 
 
 let currentIndex = 0;
